@@ -59,11 +59,11 @@ CREATE TABLE reply(
 ```
 
 #### 3. Factory 세팅하기
-<https://blog.naver.com/codingspecialist/221681388208>
+<https://blog.naver.com/wjsaygk/221679665727>
 
 #### 4. 부트스트랩 커스터마이징 HTML파일
 WebContent/ui_sample/**
 
 #### 5. 실행 영상
-<iframe width="640" height="360" src="https://www.youtube.com/embed/YyrSoUDwq-8" frameborder="0" gesture="media" allowfullscreen=""></iframe>
--youtube주소 : <https://www.youtube.com/watch?v=YyrSoUDwq-8>
+
+-youtube주소 : <https://blog.naver.com/wjsaygk/221706420445>
