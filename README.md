@@ -2,7 +2,7 @@
 
 - git주소 : <https://github.com/wjsaygk/Jsp-Model2-MySQL-blog.git>
 
-![blog](https://postfiles.pstatic.net/MjAxOTExMTJfNzYg/MDAxNTczNTM5NTA0NTUw.uoTg1BMfppFO5RnESgJliaDKr6lDNFZ9dkEXYcBXZDEg.8wCK4u8NLuajvx_5UG18szRcuzlexIAQppZsWb1m9Vog.PNG.getinthere/Screenshot_23.png?type=w773)
+https://postfiles.pstatic.net/MjAxOTExMTNfMjQ0/MDAxNTczNjIzNDA1MjEw.P2DgXn7A5Is5YqfRBxXvcFc8Oqrt3QZ_RNPjQ7ABBnEg.VRoJgkyxndbcX0HBc_hb4VDugskEIPKEMqfzRraermcg.PNG.wjsaygk/Screenshot_108.png?type=w773
 
 #### 1. 사용자 생성 및 권한 주기 및 DB 생성
 - create user 'cos'@'localhost' identified by 'bitc5600';
