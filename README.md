@@ -66,4 +66,4 @@ WebContent/ui_sample/**
 
 #### 5. 실행 영상
 
--youtube주소 : <https://blog.naver.com/wjsaygk/221706420445>
+-naver blog주소 : <https://blog.naver.com/wjsaygk/221706420445>
